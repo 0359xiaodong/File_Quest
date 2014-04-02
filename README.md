@@ -51,6 +51,8 @@ When submitting a bug report, please include the following:-
 
 ###TODO
 - Catch Exeptions while handling root operations like copying,file editing,etc.
+- Add capability to read zip,rar,tar archives. 
+
 
 ###Screenshots
 <img src="http://s27.postimg.org/mc8lmp8ar/Screenshot_2014_04_02_20_51_22.png" width="230px" height="400px"/><img src="http://s27.postimg.org/9m8yncpqb/Screenshot_2014_04_02_20_52_18.png" width="230px" height="400px"/><img src="http://s16.postimg.org/uzw74b2o5/Screenshot_2014_04_02_20_51_36.png" width="230px" height="400px"/>
